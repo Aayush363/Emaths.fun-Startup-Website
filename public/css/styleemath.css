@@ -1,0 +1,154 @@
+.logo {
+    float: left;
+    width: 40%;
+    background-color: aquamarine;
+}
+
+.detail {
+    float: right;
+    width: 60%;
+    padding: 30px 0px;
+    background-color: aquamarine;
+}
+
+.top {
+    padding: 30px 40px;
+    height: 150px;
+    background-color: aquamarine;
+}
+
+img {
+    border-radius: 100%;
+}
+
+body{
+    margin: 0px;
+}
+
+.upperleft {
+    float: left;
+    width: 25%;
+    height: 250px;
+}
+
+.lowerleft {
+    float: left;
+    width: 25%;
+    height: 200px;
+}
+
+.upperright{
+    float: right;
+    width: 75%;
+    height: 250px;
+}
+
+.lowerright{
+    float: right;
+    width: 75%;
+    height: 200px;
+}
+
+.top2{
+    padding: 10px 130px;
+    height: 425px;
+    margin-top: 60px;
+}
+
+.knight {
+    float: left;
+    width: 20%;
+}
+
+.question{
+    float: right;
+    width: 70%;
+    padding: 50px 0px;
+    font-size: 30px;
+    margin-right: 10%;
+    text-align: center;
+}
+
+button {
+    display: block;
+    width: 80%;
+    border: none;
+    background-color: coral;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+}
+
+#moreq{
+    font-size: 20px;
+    padding-left: 500px;
+    text-decoration: none;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;   
+}
+
+.top3upperleft {
+    float : left;
+    width : 25%;
+}
+
+.top3upperright {
+    float : right;
+    width : 70%;
+}
+
+.top3{
+    height: 1000px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.top31{
+    height: 300px;
+}
+
+.bottomleft{
+    float: left;
+    width: 40%;
+}
+
+.bottomright{
+    float: right;
+    width: 40%;
+}
+
+.top33{
+    height: 500px;
+}
+
+.Foot{
+    height: 700px;
+    background-color: yellow;
+    padding: 40px 60px;
+}
+
+.getyour{
+    text-align: center;
+    font-size: 40px;
+}
+
+input{
+    width: 35%;
+    padding: 12px 20px;
+    margin: 8px 0;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 25%;
+  }
